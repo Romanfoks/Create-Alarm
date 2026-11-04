@@ -1,0 +1,8 @@
+{
+  "fluid": "create_alarm:lazurite_acid_fluid",
+  "particles": {
+    "down": {
+      "texture": "minecraft:block/water_still"
+    }
+  }
+}

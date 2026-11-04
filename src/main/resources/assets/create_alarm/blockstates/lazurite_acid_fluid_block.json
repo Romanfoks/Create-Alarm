@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_alarm:block/lazurite_acid_fluid_block"
+    }
+  }
+}

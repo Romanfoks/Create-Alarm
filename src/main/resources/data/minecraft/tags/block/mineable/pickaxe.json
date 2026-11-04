@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "createalarm:redstone_charged_iron_block",
-    "createalarm:alarm"
+    "create_alarm:redstone_charged_iron_block",
+    "create_alarm:alarm"
   ]
 }

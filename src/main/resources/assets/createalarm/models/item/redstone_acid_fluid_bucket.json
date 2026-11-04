@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "createalarm:item/redstone_acid_bucket"
-  }
-}
-

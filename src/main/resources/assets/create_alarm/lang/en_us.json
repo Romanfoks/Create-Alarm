@@ -1,0 +1,15 @@
+{
+  "item.create_alarm.redstone_charged_iron": "Redstone Charged Iron",
+  "item.create_alarm.redstone_iron": "Redstone Iron",
+  "item.create_alarm.lapis_dust": "Lapis Dust",
+  "block.create_alarm.redstone_charged_iron_block": "Redstone Charged Iron Block",
+  "block.create_alarm.alarm": "RGB Alarm",
+  "terminal.create_alarm.red": "Red",
+  "terminal.create_alarm.green": "Green",
+  "terminal.create_alarm.blue": "Blue",
+  "creativetab.create_alarm.items": "Alarm Mod",
+  "item.create_alarm.redstone_acid_fluid_bucket": "Redstone Acid Bucket",
+  "item.create_alarm.lazurite_acid_fluid_bucket": "Lazurite Acid Bucket",
+  "fluid.create_alarm.redstone_acid": "Redstone Acid",
+  "fluid.create_alarm.lazurite_acid": "Lazurite Acid"
+}

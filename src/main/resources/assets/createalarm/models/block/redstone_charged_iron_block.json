@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "createalarm:block/redstone_charged_iron_block"
-  }
-}
