@@ -1,0 +1,28 @@
+{
+  "multipart": [
+    {
+      "when": { "facing": "up" },
+      "apply": { "model": "createalarm:block/alarm", "x": -180}
+    },
+    {
+      "when": { "facing": "down" },
+      "apply": { "model": "createalarm:block/alarm"}
+    },
+    {
+      "when": { "facing": "north" },
+      "apply": { "model": "createalarm:block/alarm", "x": -90, "y": 0 }
+    },
+    {
+      "when": { "facing": "south" },
+      "apply": { "model": "createalarm:block/alarm", "x": -90, "y": -180 }
+    },
+    {
+      "when": { "facing": "west" },
+      "apply": { "model": "createalarm:block/alarm", "x": -90, "y": -90 }
+    },
+    {
+      "when": { "facing": "east" },
+      "apply": { "model": "createalarm:block/alarm", "x": 90, "y": -90}
+    }
+  ]
+}

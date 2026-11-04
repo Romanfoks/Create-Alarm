@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "createalarm:redstone_charged_iron_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "createalarm:block/redstone_charged_iron_block"
+}

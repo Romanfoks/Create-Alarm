@@ -1,0 +1,13 @@
+{
+  "type":"minecraft:crafting_shapeless",
+  "category":"mics",
+  "ingredients":[
+    {
+      "item": "createalarm:redstone_charged_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "createalarm:redstone_charged_iron"
+  }
+}

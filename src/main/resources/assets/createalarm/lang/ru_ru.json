@@ -1,0 +1,16 @@
+{
+  "item.createalarm.redstone_charged_iron": "Заряженое Редстоуном железо",
+  "item.createalarm.redstone_iron": "Редстоуновое железо",
+  "item.createalarm.lapis_dust": "Порошок Лазурита",
+  "block.createalarm.redstone_charged_iron_block": "Заряженный редстоуном железный блок",
+  "block.createalarm.alarm": "RGB-сирена",
+  "terminal.createalarm.red": "Красный",
+  "terminal.createalarm.green": "Зелёный",
+  "terminal.createalarm.blue": "Синий",
+  "creativetab.createalarm.items": "Alarm Mod",
+  "item.createalarm.redstone_acid_fluid_bucket": "Ведро Редстоуновой кислоты",
+  "item.createalarm.lazurite_acid_fluid_bucket": "Ведро Лазуритовой кислоты",
+  "fluid.createalarm.lazurite_acid": "Лазуритовая Кислота",
+  "fluid.createalarm.redstone_acid": "Редстоуновая Кислота"
+
+}

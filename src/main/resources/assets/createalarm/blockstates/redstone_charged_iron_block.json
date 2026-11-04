@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createalarm:block/redstone_charged_iron_block"
+    }
+  }
+}
