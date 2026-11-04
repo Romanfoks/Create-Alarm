@@ -1,8 +1,8 @@
-![Alarm Mod](https://cdn.modrinth.com/data/cached_images/fb9749821de5989efdae30c6b3dfddf4a69b88aa_0.webp)
+![Create:Alarm](https://cdn.modrinth.com/data/cached_images/fb9749821de5989efdae30c6b3dfddf4a69b88aa_0.webp)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/alarm-mod?style=flat-square&color=00AF5C)](https://modrinth.com/mod/alarm-mod)
 [![GitHub Issues](https://img.shields.io/github/issues/Romanfoks/Alarm-Mod?style=flat-square)](https://github.com/Romanfoks/Alarm-Mod/issues)
 
-**Alarm Mod** adds an RGB siren block to Minecraft. The siren is a real electrical device
+**Create:Alarm** adds an RGB siren block to Minecraft. The siren is a real electrical device
 on the **Create: Power Grid** network: it has four contacts, and the colour comes out of how
 you wire it. Light is rendered with the **Veil** engine.
 
